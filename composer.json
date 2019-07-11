@@ -26,7 +26,8 @@
         "league/omnipay": "^3",
         "lokielse/omnipay-alipay": "*",
         "charlottedunois/yasmin": "*",
-        "slim/php-view": "dev-master"
+        "slim/php-view": "dev-master",
+        "slim/http": "^0.7.0"
     },
     "autoload": {
         "classmap": [
